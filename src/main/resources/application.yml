@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: mnt-sample
+    server:
+        port: 8888
